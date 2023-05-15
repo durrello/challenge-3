@@ -12,6 +12,7 @@ To resolve this issue, I downloaded and installed release v0.12.0 from the follo
 I proceeded to install older version from the GitHub repository, which was version v0.9.0. this installation was successfull but didn't the script was not excuted as expected because of the follwoing:
 
 - My original original script(original_script.sh)
+
 Unexpected errors when listing resources, some of the commands where not found in v0.9.0 like zones and records
 Empty resource listings
 
